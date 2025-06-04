@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+whisperx-env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyTorch saved models, checkpoints
+*.pt
+*.pth
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Hugging Face cache (opcional)
+cache/
+
+
+
+#project files
+coisas/
